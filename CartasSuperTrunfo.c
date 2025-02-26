@@ -39,7 +39,7 @@ int main (){
     printf("Área: %f KM²\n", area1);
     printf("PIB: %f Bilhões de Reais\n", PIB1);
     printf("Número de Pontos Turísticos: %i\n", pontos1);
-    
+
     printf("Digite seu estado: \n");
     scanf("%c", &letra2);
 
@@ -69,9 +69,6 @@ int main (){
     printf("Área: %f KM²\n", area2);
     printf("PIB: %f Bilhões de Reais\n", PIB2);
     printf("Número de Pontos Turísticos: %i\n", pontos2);
-
-
-    
 
     return 0;
     
