@@ -14,7 +14,7 @@ int main (){
     scanf("%c", &letra1);
 
     printf("Seu Codigo: \n");
-    scanf("%s", &codigo1);
+    scanf(" %s", &codigo1);
 
     printf("Nome da Cidade: \n");
     scanf("%s", &cidade1);
@@ -41,10 +41,10 @@ int main (){
     printf("Número de Pontos Turísticos: %i\n", pontos1);
 
     printf("Digite seu estado: \n");
-    scanf("%c", &letra2);
+    scanf(" %c", &letra2);
 
     printf("Seu Codigo: \n");
-    scanf("%s", &codigo2);
+    scanf(" %s", &codigo2);
 
     printf("Nome da Cidade: \n");
     scanf("%s", &cidade2);
